@@ -43,7 +43,7 @@
 
 - 🔭 I’m currently working on: **[Project Name](project-link)**
 - 💡 Interests: Automation, Machine Learning, AI, Cloud, Tech Writing, Photography
-- 🏆 Achievements: [Certification 1], [Award 2], [Hackathon Winner]
+- 🏆 Achievements:
 - 📫 How to reach me: [harshdubeyp@icloud.com]
 
 ---
