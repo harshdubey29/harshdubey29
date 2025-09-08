@@ -44,7 +44,7 @@
 - 🔭 I’m currently working on: **[Swarm Analysis for recipt Categorisation](project-link)**
 - 💡 Interests: Automation, Machine Learning, AI, Cloud, Tech Writing, Photography
 - 🏆 Achievements:
-- 📫 How to reach me: [harshdubeyp@icloud.com]
+- 📫 How to reach me: [harshdubey.jd@gmail.com]
 
 ---
 
